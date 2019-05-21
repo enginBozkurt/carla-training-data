@@ -33,5 +33,12 @@ $ python3 datageneration.py
 ```
 
 
+### References:
 
+-  KITTI Vision Benchmark Suite    
+[KITTI website](http://www.cvlibs.net/datasets/kitti/raw_data.php)
+-  Karlsruhe Institute of Technology  
+[Karlsruhe Institute of Technology website](http://www.kit.edu/english/index.php)
+-  Toyota Technological Institute at Chicago 
+[Toyota Technological Institute website](https://www.ttic.edu/)
 
