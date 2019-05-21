@@ -1,6 +1,11 @@
 # Carla Training Data
 Generating training data from the Carla driving simulator in the KITTI dataset format
 
+
+![Screenshot_3](https://user-images.githubusercontent.com/30608533/58124632-5c87b380-7c17-11e9-907b-f7cfdbb697a7.jpg)
+
+
+
 ## KITTI dataset format
 
 ### An example of KITTI dataset format
