@@ -13,3 +13,18 @@ Generating training data from the Carla driving simulator in the KITTI dataset f
   -          |- image_03
   -          |- oxts
   -          |- velodyne_points
+
+## Getting started and Setup
+This project expects the carla folder to be inside this project  __i.e PythonClient/carla-training-data/carla__
+
+## Running the client after running the Carla Server
+
+```bash
+## Running the client after running the Carla Server
+
+$ python3 datageneration.py
+```
+
+
+
+
